@@ -1,0 +1,6 @@
+c:\users\pec\documents\visual studio 2015\Projects\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+c:\users\pec\documents\visual studio 2015\Projects\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+c:\users\pec\documents\visual studio 2015\Projects\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+c:\users\pec\documents\visual studio 2015\Projects\ClientApp\ClientApp\obj\Debug\ClientApp.csprojResolveAssemblyReference.cache
+c:\users\pec\documents\visual studio 2015\Projects\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+c:\users\pec\documents\visual studio 2015\Projects\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
